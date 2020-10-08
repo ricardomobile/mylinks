@@ -110,3 +110,8 @@ i.fa {
     font-size: 10px;
     color: rgb(32, 32, 32);
 }
+
+.shake {
+	animation: shake-animation 4.72s ease infinite;
+	transform-origin: 50% 50%;
+  }
